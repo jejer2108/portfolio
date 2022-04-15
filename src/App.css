@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800&display=swap');
+
+/*permet de modifier la police d l'app*/
+.App {
+  font-family: "Goudy Bookletter 1911", sans-serif;
+}
+
+:root {
+  --nav-color: hsl(210, 11%, 15%);
+  --nav-color-hover: hsl(210, 11%, 45%);
+  --nav-border-color: hsl(210, 11%, 45%);
+  --light-color: hsl(0, 0%, 66%);
+  --font-color: hsl(0, 0%, 53%);
+  --font-color-hover: hsl(0, 0%, 40%);
+}
+

@@ -1,0 +1,62 @@
+.rpc {
+    background-color: white;
+  }
+   
+  .rpc_main_container , 
+  .rpc_main_container h1,
+  .rpc_main_container p {
+    max-width: 2000px;
+    text-align: center;
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+   
+  #rpc_card_container {
+    width: 50%;
+    padding: 10px;
+    border: none;
+  }
+   
+  .rpc_image:hover {
+    cursor: pointer;
+    filter: brightness(50%);
+  }
+   
+  .rpc_click_info {
+    position: absolute;
+    top: 50%;  
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    color: var(--font-color);
+    display: none;
+  }
+   
+  .rpc_image:hover + .rpc_click_info {
+    display: block;
+  }
+   
+  .modal-backdrop.show {
+    opacity: .1 !important;
+  }
+   
+  #rpc_modal_link {
+    padding: 0 0 1rem 1rem
+  }
+   
+  #rpc_modal_link:link {
+    text-decoration: none;
+  }
+   
+  @media only screen and (max-width: 600px){
+    #rpc_card_container {
+      width: 100%;
+      padding: 0.5rem 2.5rem;
+      border: none;
+    }
+  }
+  
+
+

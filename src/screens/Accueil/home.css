@@ -1,0 +1,56 @@
+/*image*/
+.home_container {
+ margin: 7rem 0;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-evenly;
+ align-items: center;
+
+}   
+
+.home_container img {
+    /*cree les contours de l'image*/ 
+    border-radius: 50%;
+    border: 0,5px solid rgb(red, green, blue);
+    margin-bottom: 1rem;
+    /* si l'image est trop grande 
+    max-width: 100px;
+    max-height: 100px;
+    object-fit: scale-down;*/
+
+}   
+   
+/*texte A propos de moi*/
+.home_text{
+    max-width: 600px;
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cv_text{
+    max-width: 600px;
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+/*media queries ce qui va permettre de laisser li'mage au dessus du texte*/
+
+@media only screen and (max-width: 900px ){
+    .home_container{
+        flex-direction: column;
+    }
+
+}
+
+@media only screen and (max-width: 900px ){
+    .home_text{
+        max-width: 300px;
+    }
+
+}
