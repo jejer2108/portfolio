@@ -1,6 +1,6 @@
 import siteVitrine from '../images/projectsicon/rpc/siteVitrine.gif'
 import AppliFraispdf from '../pdf/rp1.pdf'
-import AppliVisiteurs from '../images/projectsicon/rpc/AppliVisiteurs.png'
+import AppliVisiteurs from '../images/projectsicon/rpc/AppliVisiteur.png'
 import AppliFrais from '../images/projectsicon/rpc/AppliFrais.gif'
 
 const competenceData =[
