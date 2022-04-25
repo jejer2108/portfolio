@@ -14,7 +14,7 @@ const competenceData =[
     },
     {
         image: AppliFrais,
-        link: '',
+        link: 'https://jripert.aristeecampus.org/appliFrais/',
         desc: 'APPLIFRAIS',
         summary: 'Appli frais ',
         tech: 'PHP-SQL-PhpMyAdmin',

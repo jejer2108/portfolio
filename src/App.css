@@ -2,7 +2,8 @@
 
 /*permet de modifier la police d l'app*/
 .App {
-  font-family: "Goudy Bookletter 1911", sans-serif;
+  font-family: serif;
+  font-size: 1.2em;
 }
 
 :root {

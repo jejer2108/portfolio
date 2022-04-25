@@ -2,7 +2,13 @@
     background-color: rgb(255, 255, 255);
   }
    
-  .competences_main_container h1, 
+  .competences_main_container h1 {
+    text-align: center;
+    margin-top: 3rem;
+    background-color: rgb(34,38,42); 
+    color: hsl(210, 9%, 52%); 
+  }
+
   .competences_main_container p {
     text-align: center;
     margin-top: 3rem;

@@ -37,7 +37,7 @@ function SECU() {
                     <p>{data.summary}</p>
                     <Image src={data.image} style={{width: '200px'}} />   
                 </ModalBody>
-                    <a id="secu_modal_link" href={data.link} target="_blank" rel='noreferrer'>Allez au site</a>
+                    <a id="secu_modal_link" href={data.link} target="_blank" rel='noreferrer'>Ouvrir</a>
                 <Modal.Footer>
                     <div>outils:</div>
                     <p style={{ fontSize: '0.7rem', marginRight: 'auto'}}>{data.tech}</p>

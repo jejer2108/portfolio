@@ -85,15 +85,14 @@ function RPC() {
   return (
     <div className='rpc_main_container' id='rpc'>
         <h1>REALISATIONS PROFESSIONNELLES EN CENTRE</h1>
+            
+            
             <div>
             <img src={logo} alt="logo icon"/>
             </div>
             
             
-            
-            
-            
-            
+        
             <p>
                 PRESENTATION GSB
             </p>

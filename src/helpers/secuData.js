@@ -1,6 +1,7 @@
 import ANSII from '../images/projectsicon/secu/anssi.png'
 import CNIL from '../images/projectsicon/secu/cnil.PNG'
 import CHARTE from '../images/projectsicon/secu/charte.gif'
+import charte from '../pdf/charte.pdf'
 
 
 
@@ -21,7 +22,7 @@ const competenceData =[
     },
     {
         image: CHARTE,
-        link: 'https://docs.google.com/document/d/12lmmGSkdLJ63eO6OUx9bR135f87yI05e7Ti9MyCJko4/edit',
+        link: charte,
         desc: 'CHARTE',
         summary: " CHARTE informatique ",
         tech: '',

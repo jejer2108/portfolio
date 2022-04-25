@@ -1,6 +1,7 @@
 import Pearltrees from '../images/projectsicon/veille/Pearltrees.gif'
 import RGPD from '../images/projectsicon/secu/RGPD.PNG'
 import  Shadow from '../images/projectsicon/veille/shadow.jpg'
+import REACT from '../images/projectsicon/secu/reactjs.png'
 
 
 const competenceData =[
@@ -22,9 +23,17 @@ const competenceData =[
         image: Shadow,
         link: 'https://docs.google.com/presentation/d/1Dcu5YTreWa4w_--lWc5HuML7HGSVTx1HvJGv6psk-mI/edit#slide=id.p',
         desc: 'SHADOW',
-        summary: "premiere presentation de la veille tech",
+        summary: "presentation shadow",
         tech: '',
     },
+    {
+        image: REACT,
+        link: 'https://docs.google.com/presentation/d/1Tc_kOT9udeg35lLbXO9qS164mIvRSNCZcY2xC163a_E/edit#slide=id.p',
+        desc: 'react',
+        summary: "presentation react js",
+        tech: '',
+    },
+
 
 
 ]
