@@ -29,6 +29,7 @@
     border: none;
   }
    
+  /*gerer l'ombre sur les cartes*/
   .veille_image:hover {
     cursor: pointer;
     filter: brightness(50%);

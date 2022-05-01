@@ -1,5 +1,5 @@
 import React from 'react'
-import technologies from './technologies.css'
+import './technologies.css'
 import DevIcon from "devicon-react-svg";
 import {techs} from '../../helpers/techs'
 

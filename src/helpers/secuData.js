@@ -1,7 +1,9 @@
 import ANSII from '../images/projectsicon/secu/anssi.png'
 import CNIL from '../images/projectsicon/secu/cnil.PNG'
+import cnil from '../pdf/pdf_secu/CNIL.pdf'
 import CHARTE from '../images/projectsicon/secu/charte.gif'
-import charte from '../pdf/charte.pdf'
+import charte from '../pdf/pdf_secu/charte.pdf'
+
 
 
 
@@ -15,7 +17,7 @@ const competenceData =[
     },
     {
         image: CNIL,
-        link: '',
+        link: cnil,
         desc: 'MOOC',
         summary: "MOOC cybersecurite CNIL",
         tech: 'MOOC',

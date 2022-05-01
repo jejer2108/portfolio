@@ -10,8 +10,9 @@ import  Button  from 'react-bootstrap/Button';
 import ModalHeader from 'react-bootstrap/esm/ModalHeader';
 import ModalBody from 'react-bootstrap/esm/ModalBody';
 import ModalTitle from 'react-bootstrap/esm/ModalTitle';
-import logo from '../../images/pearltrees.webp' 
-import google from '../../images/googlealert.png'
+import pearl from '../../images/logo/pearltrees.webp' 
+import google from '../../images/logo/googlealert.png'
+import twitter from '../../images/logo/twitter.png'
 
 
 
@@ -95,7 +96,7 @@ function VEILLE() {
         <h3> Mes outils de veille technologique :</h3>
 
         <div>
-            <img src={logo} alt="logo icon"/>
+            <img src={pearl} alt="logo icon"/>
         </div>
 
         <p>
@@ -114,10 +115,23 @@ function VEILLE() {
         </div>
 
         <p>
-        Google alertes est un outil gratuit fournit par Google. Les alertes Google permetd’être averti par e-mail ou par flux RSS des nouvelles publiées sur le Web. Ces nouvelles peuvent être des pages web, des articles de presse, des blogs, des commentaires sur internet, des sujets sur les forums de discussions,etc…
-
+        Google alertes est un outil gratuit fournit par Google. 
+        Les alertes Google permetd’être averti par e-mail ou par flux RSS des nouvelles publiées sur le Web. 
+        Ces nouvelles peuvent être des pages web, des articles de presse, des blogs, des commentaires sur internet, des sujets sur les forums de discussions,etc…
         </p>
 
+        <div>
+            <img src={twitter} alt="logo icon"/>
+        </div>
+
+        <p>
+        Twitter est parmi l’un des réseaux sociaux les plus populaires de nos jours. Ce site est classé parmi les sites les plus populaires avec des milliers de nouveaux utilisateurs chaque jour. 
+        En plus de partager du contenu on peut aussi utiliser les tweets pour suivre les autres utilisateurs mais aussi suivre l'actualité.
+        Twitter m'a beaucoup servi pour faire evoluer ma veille.
+        J'ai pu recuperer de nombreuses informations sur les nouvelles technologies et etre a jour sur l'actulite en matiere de cybersecurité.
+        </p>
+
+        
         
         <Container fluid='lg' style={{ padding: '2rem 0'}}>
         <Row>
