@@ -80,7 +80,7 @@ function Competences() {
     <div className='competences_main_container' id='competences'>
         <h1>Competences BTS SIO </h1>
         <p>
-            Voici les competences que j'ai acquis durant mes 2 annees
+            Voici les compétences que j'ai acquis durant mes 2 années.
         </p>
         <Container fluid='lg' style={{ padding: '2rem 0'}}>
         <Row>

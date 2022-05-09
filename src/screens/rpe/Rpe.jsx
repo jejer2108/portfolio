@@ -81,10 +81,10 @@ function RPE() {
     <div className='rpe_main_container' id='rpe'>
         <h1>REALISATIONS PROFESSIONNELLES EN ENTREPRISE</h1>
         <p>
-            La Vitrine Medical est une entreprise en activité depuis 23 ans. Implantée à OLLIOULES (83190), elle est spécialisée dans le secteur d'activité du commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé. 
-            Son effectif est comprend une quinzaine de salariés. Sur l'année 2017 elle réalise un chiffre d'affaires de 2 659 700,00 €. 
-            Le total du bilan a augmenté de 14,95 % entre 2016 et 2017. Pour continuer et evoluer son devellopement dans la region, deux nouveaux magasins se sont installes, a la valette-du-var (83160) et la seyne-sur-mer (83500).
-            l'emplacement de ses deux nouveaux magasins permet de recouvrir une grande partir de la region toulonnaise mais aussi de toucher une clientele plus eloignee. 
+            La Vitrine Medicale est une entreprise en activité depuis 23 ans. Implantée sur l'aire toulonnaise, elle est spécialisée dans le secteur d'activité du commerce de détail d'articles médicaux , orthopédiques, et d'installation de matériels médicales pour professionnels et particuliers. 
+            Son effectif  comprend une quinzaine de salariés. Sur l'année 2021 elle réalise un chiffre d'affaires d'environ 3 900 000,00 €. 
+            Pour continuer et évoluer son développement dans la région, deux nouveaux magasins se sont installés, à la Valette-du-var (83160) et la Seyne-sur-mer (83500).
+            L'emplacement de ses deux nouveaux magasins permet de recouvrir une grande partir de la région toulonnaise mais aussi de toucher une clientèle plus éloignée. 
 
         </p>
 

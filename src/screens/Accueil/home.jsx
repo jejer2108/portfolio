@@ -17,7 +17,7 @@ function home() {
           <div>
 
             
-              <p>Je m’appelle Ripert jerome, je suis âgé de 19 ans. Je suis actuellement étudiant a la formation d'Aristée  Ecole Supérieure Privée / CFA, en deuxième année de BTS SIO spécialité  Services Informatiques aux Organisations spécialité en Solutions d'Infrastructure, Solutions Logicielles et Applications Métier. Depuis mes jeunes années, j’ai toujours été attiré par l’informatique et les nouvelles technologies. C’est tout naturellement que je me suis tourné vers ces études, en effectuant mes trois années de lycee en BAC Scientifique , et mes deux années d’études en BTS SIO.</p>
+              <p>Je m’appelle Ripert Jerome, je suis âgé de 19 ans. Je suis actuellement étudiant à la formation d'Aristée  Ecole Supérieure Privée / CFA, en deuxième année de BTS SIO spécialité  Services Informatiques aux Organisations spécialité en Solutions d'Infrastructure, Solutions Logicielles et Applications Métier. Depuis mes jeunes années, j’ai toujours été attiré par l’informatique et les nouvelles technologies. C’est tout naturellement que je me suis tourné vers ces études, en effectuant mes trois années de lycee en BAC Scientifique , et mes deux années d’études en BTS SIO.</p>
           </div>
         <div className='cv_text'>
             <h1>Curriculum vitae</h1>
