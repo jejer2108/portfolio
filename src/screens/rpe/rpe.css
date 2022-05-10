@@ -3,16 +3,25 @@
   }
    
   .rpe_main_container h1{
+  
     text-align: center;
     margin-top: 3rem;
     background-color: rgb(34,38,42); 
     color: hsl(210, 9%, 52%); 
   }
 
+
+  .rpe_main_container , 
   .rpe_main_container p {
+    max-width: 2000px;
     text-align: center;
     margin-top: 3rem;
+    display: flex;                                                    
+    flex-direction: column;
+    justify-content: center;
+    /*align-items: center;*/
   }
+
    
   #rpe_card_container {
     width: 50%;

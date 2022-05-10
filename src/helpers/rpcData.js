@@ -2,8 +2,20 @@ import siteVitrine from '../images/projectsicon/rpc/siteVitrine.gif'
 import AppliFraispdf from '../pdf/rp1.pdf'
 import AppliVisiteurs from '../images/projectsicon/rpc/AppliVisiteur.png'
 import AppliFrais from '../images/projectsicon/rpc/AppliFrais.gif'
+import GSB from '../images/logoGSB.png'
+import GSBpdf from '../pdf/GSB.pdf'
+
 
 const competenceData =[
+  
+  
+    {
+        image: GSB,
+        desc: 'presentation Gsb ',
+        summary: " documentation de l'entreprise GSB", 
+        tech: '',
+        pdf: GSBpdf,
+    },
     {
         image: siteVitrine,
         link: '',

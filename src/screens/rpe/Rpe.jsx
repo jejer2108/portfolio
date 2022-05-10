@@ -10,7 +10,7 @@ import  Button  from 'react-bootstrap/Button';
 import ModalHeader from 'react-bootstrap/esm/ModalHeader';
 import ModalBody from 'react-bootstrap/esm/ModalBody';
 import ModalTitle from 'react-bootstrap/esm/ModalTitle';
-
+import lvm from '../../images/lvm.png'
 
 
 
@@ -80,6 +80,11 @@ function RPE() {
   return (
     <div className='rpe_main_container' id='rpe'>
         <h1>REALISATIONS PROFESSIONNELLES EN ENTREPRISE</h1>
+
+        <div>
+         <img src={lvm}  alt="logo icon"/>
+        </div>
+
         <p>
             La Vitrine Medicale est une entreprise en activité depuis 23 ans. Implantée sur l'aire toulonnaise, elle est spécialisée dans le secteur d'activité du commerce de détail d'articles médicaux , orthopédiques, et d'installation de matériels médicales pour professionnels et particuliers. 
             Son effectif  comprend une quinzaine de salariés. Sur l'année 2021 elle réalise un chiffre d'affaires d'environ 3 900 000,00 €. 
