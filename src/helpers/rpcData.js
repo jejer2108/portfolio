@@ -8,7 +8,7 @@ import GSB from '../images/logoGSB.png'
 /*pdf*/
 import AppliVisiteurspdf from '../pdf/RP2.pdf'
 import GSBpdf from '../pdf/GSB.pdf'
-import AppliFraispdf from '../pdf/RP1.pdf'
+import AppliFraispdf from ''
 
 
 
