@@ -1,10 +1,9 @@
-import secnum from '../pdf/pdf_secu/secnum.pdf'
 import SECNUM from '../images/projectsicon/secu/secnum.png'
 import CNIL from '../images/projectsicon/secu/cnil.PNG'
-import cnil from '../pdf/pdf_secu/CNIL.pdf'
-import CHARTE from '../images/projectsicon/secu/charte.gif'
-import charte from '../pdf/pdf_secu/charte.pdf'
 
+/**pdf */
+import cnil from '../pdf/pdf_secu/CNIL.pdf'
+import secnum from '../pdf/pdf_secu/secnum.pdf'
 
 
 
@@ -23,13 +22,7 @@ const competenceData =[
         summary: "MOOC cybersecurite CNIL",
         tech: 'MOOC',
     },
-    {
-        image: CHARTE,
-        link: charte,
-        desc: 'CHARTE',
-        summary: " CHARTE informatique ",
-        tech: '',
-    },
+
   
 
 

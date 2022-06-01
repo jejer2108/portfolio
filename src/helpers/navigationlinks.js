@@ -1,7 +1,7 @@
 export const navigationlinks = [
    
     {
-    name:'Accueil', 
+    name:'ACCUEIL', 
     ref: '#home'
     },
     {
@@ -9,11 +9,11 @@ export const navigationlinks = [
     ref: '#competences'
     },
     {
-    name:'REALISATIONS PROFFESSIONNELS EN CENTRE', 
+    name:'REALISATIONS PROFFESSIONNELLES EN CENTRE', 
     ref: '#rpc'
     },
     {
-    name:'REALISATIONS PROFFESSIONNELS EN ENTREPRISE', 
+    name:'REALISATIONS PROFFESSIONNELLES EN ENTREPRISE', 
     ref: '#rpe'
     },
     {

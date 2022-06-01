@@ -43,7 +43,7 @@ function RPC() {
                     <div>outils:</div>
                     <p style={{ fontSize: '0.7rem', marginRight: 'auto'}}>{data.tech}</p>
                     
-                    { tempData.pdf ? <a href={tempData.pdf} target='_blank' rel="noreferrer"> telcharger</a> : null }
+                    { tempData.pdf ? <a href={tempData.pdf} target='_blank' rel="noreferrer"> Telcharger la documentation</a> : null }
                     <Button onClick={() => setModalShow(false)}>fermer</Button>
                 </Modal.Footer>
 

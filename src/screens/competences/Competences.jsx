@@ -36,7 +36,7 @@ function Competences() {
                     <p>{data.summary}</p>
                     <Image src={data.image} style={{width: '200px'}} />   
                 </ModalBody>
-                    <a id="competences_modal_link" href={data.link} target="_blank" rel='noreferrer'>Ouvrir le tableau de competence</a>
+                    <a id="competences_modal_link" href={data.link} target="_blank" rel='noreferrer'>Voir les compétences du Bloc 1</a>
                 <Modal.Footer>
                     <div>outils:</div>
                     <p style={{ fontSize: '0.7rem', marginRight: 'auto'}}>{data.tech}</p>
