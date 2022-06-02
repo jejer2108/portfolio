@@ -20,7 +20,7 @@ const competenceData =[
     },
     {
         image: siteVitrine,
-        link: '',
+        link: 'http://localhost/wordpress/',
         desc: 'site vitrine ',
         summary: "Site vitrine de l'entreprise GALAXY SWISS BOURDIN",
         tech: 'Wordpress',
